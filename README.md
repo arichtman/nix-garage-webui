@@ -1,5 +1,9 @@
 # nix-garage-webui
 
+** Not ready **
+
+Switch to container for deployment vs building GoLang.
+
 Nix packaging and NixOS module for Garage Webui.
 
 ## Usage

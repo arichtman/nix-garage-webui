@@ -1,0 +1,5 @@
+{ ... }:{
+  services.davyjones = {
+    enable = true;
+  };
+}
